@@ -1,4 +1,4 @@
-Neste documento está descrito o roteiro da Avaliação Prática da disciplina Implantação e Manutenção de Software.
+Neste documento está descrito o roteiro da Avaliação Prática.
 
 O roteiro irá requisitar que vocês realizem operações com a ferramenta de controle de versão Git e respondam perguntas ao longo do caminho.
 
